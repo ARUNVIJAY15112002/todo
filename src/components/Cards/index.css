@@ -1,0 +1,25 @@
+.task-card {
+  background-color: #1a171d;
+  margin-top: 5px;
+  padding: 5px;
+  width: 97%;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.task {
+  color: white;
+  font-size: 15px;
+  margin-top: 16px;
+  margin-left: 10px;
+}
+.Task-type {
+  background-color: #f3aa4e;
+  color: black;
+  padding: 5px;
+  border-radius: 20px;
+  border-width: 0px;
+  font-size: 15px;
+  margin-right: 10px;
+}
